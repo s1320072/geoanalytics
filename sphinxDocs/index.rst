@@ -9,11 +9,6 @@ Welcome to geoanalytics's documentation!
 .. toctree::
    :maxdepth: 2
 
-   clustering
-
-.. toctree::
-   :maxdepth: 2
-
    conversion
 
 .. toctree::
@@ -24,12 +19,17 @@ Welcome to geoanalytics's documentation!
 .. toctree::
    :maxdepth: 2
 
-   normalization
+   clustering
 
 .. toctree::
    :maxdepth: 2
 
    patternMining
+
+.. toctree::
+   :maxdepth: 2
+
+   normalization
 
 .. toctree::
    :maxdepth: 2
