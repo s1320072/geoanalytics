@@ -8,6 +8,9 @@ Welcome to geoanalytics's documentation!
 
 geoAnalytics is an open-source Python-based Machine Learning library developed to discover various forms of useful information hidden in the raster data. The algorithms provided in this library cover a wide-spectrum of machine learning tasks, such as imputation, image fusion, clustering, classification, one class classification, and pattern mining. This library being platform independent can run any operating system.
 
+The library has been designed with a strong research focus, offering robust tools tailored to the needs of geospatial, remote sensing, and planetary data analysis. Its rich collection of modules enables users to process, analyze, and visualize complex spatial datasets with ease.
+
+
 Areas of Research
 -----------------
 
@@ -30,6 +33,7 @@ Planetary and Astrophysical Data Analysis
 
 The library also supports analysis of planetary and astrophysical imagery. It has been applied to lunar satellite data for clustering and imputation. These tools can be extended to other datasets, such as Mars rover images or asteroid observations, making them valuable in space research and planetary science.
 
+To explore the available modules and dive into the API documentation, refer to the navigation below:
 
 .. toctree::
    :maxdepth: 2
