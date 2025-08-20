@@ -70,17 +70,12 @@ Total number of algorithms: 50+
 ***
 # Maintenance
 
-+----------------+----------------------------------------+
-| **Operation**  | **Command**                            |
-+================+========================================+
-| Installation   | ``pip install geoAnalytics``           |
-+----------------+----------------------------------------+
-| Upgradation    | ``pip install --upgrade geoAnalytics`` |
-+----------------+----------------------------------------+
-| Uninstallation | ``pip uninstall geoAnalytics``         |
-+----------------+----------------------------------------+
-| Information    | ``pip show geoAnalytics``              |
-+----------------+----------------------------------------+
+| **Operation**  | **Command**                              |
+|----------------|------------------------------------------|
+| Installation   | ``pip install geoAnalytics``             |
+| Upgradation    | ``pip install --upgrade geoAnalytics``   |
+| Uninstallation | ``pip uninstall geoAnalytics``           |
+| Information    | ``pip show geoAnalytics``                |
 
 ***
 # *Try your first geoAnalytics program*
